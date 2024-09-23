@@ -3,8 +3,8 @@
 <head>
     <meta name="google-site-verification" content="JE8VfLBfHACWhz4b3WMV-prPmrIgSZDkiZrOp3SqwWU" />
   <meta charset="utf-8" />
-  <title>LINK DEMO SLOT GACOR GAMPANG MENANG BET 200 PERAK HARI INI DAFTAR SEKARANG</title>
-  <meta name="description" content="Situs demo slot gacor. akun demo slot gacor serta demo pg soft mahjong merupakan cara paling ampuh untuk gampang menang hari ini dengan scatter hitam mulai dari bet 200 daftar sekarang." />
+  <title>SLOT HOKI : DAFTAR SEKARANG RAJA SITUS SLOT HOKI THAILAND JAMIN GAMPANG MENANG</title>
+  <meta name="description" content="SLOT HOKI merupakan situs raja slot online thailand paling gacor yang terpercaya karena memiliki permainan terbaik resmi dan gampang menang yang menyediakan jackpot dan maxwin terbesar di Indonesia. Tidak hanya permainan slot yang bisa anda mainkan di SLOTHOKI tersedia juga banyak permainan judi online lainnya seperti judi bola, togel dan live casino dengan kualitas terbaik dan resmi." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="search engines" content="Aeiwi, Alexa, AllTheWeb, AltaVista, AOL Netfind, Anzwers, Canada, DirectHit, EuroSeek, Excite, Overture, Go, Google, HotBot, InfoMak, Kanoodle, Lycos, MasterSite, National Directory, Northern Light, SearchIt, SimpleSearch, WebsMostLinked, WebTop, What-U-Seek, AOL, Yahoo, WebCrawler, Infoseek, Excite, Magellan, LookSmart, bing, CNET, Googlebot">
@@ -18,7 +18,7 @@
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://pub-22f5d56009c544d6a765cfa7997cd1a7.r2.dev/favicon2s.png" />
   <link rel="amphtml" href="https://pub-b9a4453a1887473bb1913c10edc3b2cc.r2.dev/2s.html" />
-  <link rel="canonical" href="https://sidosen.itn.ac.id/vendor/setasign/fpdi/src/Math/bet200/" />
+  <link rel="canonical" href="https://elektro.umk.ac.id/arsip/files/shk/index.php" />
   <!-- start preload -->
   <link rel="preload" href="https://i.postimg.cc/7Z10dhQD/2s-father.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -120,7 +120,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"//staici.ac.id/wp-content/uploads/2021/03/Album-7-1-scaled.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SLOT BET 200 🎰 SITUS SLOT GACOR GAMPANG JP MAXWIN DAN SCATTER HITAM 2024","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
+    var pdpTrackingData = "{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"//staici.ac.id/wp-content/uploads/2021/03/Album-7-1-scaled.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SLOT HOKI : RAJANYA SITUS SLOT THAILAND HOKI DAN GAMPANG MENANG","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
     try {pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
       dataLayer.push(pdpTrackingData);
